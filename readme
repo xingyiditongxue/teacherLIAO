@@ -1,6 +1,6 @@
 Git is a /*distributed*/ version control system.
 Git is a free software /*distributed under the GPL*/.
 Git is a free one.
-git has a mutable index called stage
+git has a mutable index called stage.
 Git tracks modifications. 
 Changing of origin Master
